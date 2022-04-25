@@ -11,8 +11,8 @@
 - as long as it is doing the job i'm satisfied
 
 stay in touch,<br/>
-mail:     [stojanovic's email](mailto://stojanoviclubinko@outlook.com)<br/>
-linkedin: [link stojanovic](https://www.linkedin.com/in/hooman-ardaki-a231a0222/)
+mail:     [mail me](mailto://stojanoviclubinko@outlook.com)<br/>
+linkedin: [link me](https://www.linkedin.com/in/hooman-ardaki-a231a0222/)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stojanovicljubinko&show_icons=true&locale=en" alt="neo-vortex" /></p>
