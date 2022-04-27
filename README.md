@@ -6,7 +6,7 @@
 - I write code that only I can read
   - nor a capital letter
   - nor space or tab
-  - nor multi-line code
+  - nor multi-line code (prefer everything in one line)
 - I prefer to use the notepad as an IDE
 - I do not use a compiler, real legends write zeros and ones
 - When the code does not work for me, I download someone else's and upload it to github
