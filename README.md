@@ -1,17 +1,15 @@
 ### Hi, im stojanovicljubinko
 #### #include <conio.h><p><b><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{</strong></b></p>
 
-<li style= "margin-bottom: 10px; list-style: square;">I restart my router when it get is disconnected</li>
-<li style= "margin-bottom: 10px; list-style: square;">I punch my case when it is fan start making funny noises</li>
-<li style= "margin-bottom: 10px; list-style: square;">I write code that only I can read</li>
-<ul>
-<li style= "margin-bottom: 10px; list-style: square;">nor a capital letter</li>
-<li style= "margin-bottom: 10px; list-style: square;">nor space or tab</li>
-<li style= "margin-bottom: 10px; list-style: square;">nor multi-line code</li>
-</ul>
-<li style= "margin-bottom: 10px; list-style: square;">I prefer to use the notepad as an IDE</li>
-<li style= "margin-bottom: 10px; list-style: square;">I do not use a compiler, real legends write zeros and ones</li>
-<li style= "margin-bottom: 10px; list-style: square;">When the code does not work for me, I download someone else's and upload it to github</li>
+- I restart my router when it get is disconnected
+- I punch my case when it is fan start making funny noises
+- I write code that only I can read
+  - nor a capital letter
+  - nor space or tab
+  - nor multi-line code
+- I prefer to use the notepad as an IDE
+- I do not use a compiler, real legends write zeros and ones
+- When the code does not work for me, I download someone else's and upload it to github
 <p><b><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</strong></b></p>
 
 stay in touch,<br/>
