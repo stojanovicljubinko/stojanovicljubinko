@@ -14,7 +14,7 @@
 
 stay in touch,<br/>
 mail:     [mail me](mailto://stojanoviclubinko@outlook.com)<br/>
-linkedin: [link me](https://www.linkedin.com/in/hooman-ardaki-a231a0222/)
+linkedin: [link me](https://www.linkedin.com/in/ljubinko-stojanović-b3b4b2183/)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stojanovicljubinko&show_icons=true&locale=en" alt="neo-vortex" /></p>
