@@ -1,14 +1,11 @@
-<svg
-  fill="none"
-  viewBox="0 0 800 400"
+<svg fill="none" viewBox="0 0 800 400"
   width="800"
   height="400"
-  xmlns="http://www.w3.org/2000/svg"
->
+  xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .duck {
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      .duck {
           display: flex;
           flex-direction: column;
           position: relative;
@@ -17,7 +14,6 @@
           display: grid;
           place-content: center;
         }
-        
         .duck__head {
           align-self: flex-end;
           width: 6rem;
@@ -148,7 +144,6 @@
         .duck__foot--2 {
           animation: foot-ans 2s 1s linear infinite;
         }
-
         .surface {
           position: absolute;
           bottom: -1.9rem;
@@ -160,8 +155,7 @@
           border-radius: 1rem;
           animation: surface-animation 1s linear infinite;
         }
-
-        @keyframes surface-animation {
+          @keyframes surface-animation {
           0%,
           100% {
             transform: translateX(-50%) scaleX(0.9);
@@ -193,7 +187,6 @@
         .duck__inner {
           animation: bird-up-down 1s linear infinite;
         }
-
         @keyframes bird-up-down {
           0%,
           100% {
@@ -264,7 +257,6 @@
           transform: translateX(2rem);
           background-color: #fff;
         }
-
         @keyframes cloud-animation-1 {
           0% {
             transform: translate(110vw);
@@ -282,7 +274,6 @@
           }
         }
       </style>
-
       <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
       <div class="cloud cloud--1"></div>
                     <div class="cloud cloud--2"></div>
@@ -307,4 +298,33 @@
                         </div>
   </foreignObject>
 </svg>
+
+
+
+              
+```c
+#include <conio.h>
+
+int main() {
+    // Restart my router when it gets disconnected
+    system("router restart");
+
+    // Punch my case when its fan starts making funny noises
+    system("punch case");
+
+    // Write code that only I can read
+    // - No capital letter
+    // - No space or tab
+    // - No multi-line code (prefer everything in one line)
+    char myCode[] = "codelikecodesnake";
+
+    // Prefer to use Notepad as an IDE
+    // I do not use a compiler, real legends write zeros and ones
+    // When the code does not work for me, I download someone else's and upload it to GitHub
+    // Typing keyboard Serbian Cyrillic
+    printf("Legendary duck in action!\n");
+
+    return 0;
+}
+```
 
