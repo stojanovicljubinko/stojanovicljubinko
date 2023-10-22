@@ -1,7 +1,7 @@
 <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
 
-![](https://i.imgur.com/36zsqKT.gif)
-
+![]()
+<img src="https://i.imgur.com/36zsqKT.gif" data-canonical-src="https://i.imgur.com/36zsqKT.gif" width="50%" height="50%" />
 
 
 
