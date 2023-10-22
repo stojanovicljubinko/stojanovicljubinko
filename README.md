@@ -22,7 +22,7 @@ int main() {
     // I do not use a compiler, real legends write zeros and ones
     // When the code does not work for me, I download someone else's and upload it to GitHub
     // Typing keyboard Serbian Cyrillic
-    printf("Legendary programmer in action!\n");
+    printf("Legendary duck in action!\n");
 
     return 0;
 }
