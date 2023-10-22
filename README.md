@@ -1,6 +1,6 @@
 <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://i.imgur.com/36zsqKT.gif))
+![](https://i.imgur.com/36zsqKT.gif)
 
 
 
