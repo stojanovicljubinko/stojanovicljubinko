@@ -1,7 +1,26 @@
 <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
+  <div class="cloud cloud--1"></div>
+                <div class="cloud cloud--2"></div>
+                <div class="cloud cloud--3"></div>
+                <div class="cloud cloud--4"></div>
+                <div class="duck__wrapper" style="margin-left:50px; margin-top:250px;">
+                    <div class="duck">
+                        <div class="duck duck__inner">
+                            <div class="duck__mouth"></div>
+                            <div class="duck__head">
+                                <div class="duck__eye"></div>
+                                <div class="duck__eye--shadow"></div>
+                                <div class="duck__white"></div>
+                            </div>
+                            <div class="duck__body"></div>
+                            <div class="duck__wing"></div>
+                        </div>
+                        <div class="duck__foot duck__foot--1" style="z-index: 1;"></div>
+                        <div class="duck__foot duck__foot--2" style="z-index: 1;"></div>
+                        <div class="surface"></div>
+                    </div>
 
-![alt text](https://raw.githubusercontent.com/stojanovicljubinko/stojanovicljubinko/main/Snimak%20ekrana%202023-10-22%20134753.png)
-
+              
 ```c
 #include <conio.h>
 
