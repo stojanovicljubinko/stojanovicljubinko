@@ -1,5 +1,5 @@
 <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
-<img src="https://i.imgur.com/36zsqKT.gif" data-canonical-src="https://i.imgur.com/36zsqKT.gif" width="15%" height="15%" />
+<img src="https://i.imgur.com/36zsqKT.gif" data-canonical-src="https://i.imgur.com/36zsqKT.gif" height="35%" />
 
               
 ```c
