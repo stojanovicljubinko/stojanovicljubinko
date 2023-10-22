@@ -1,5 +1,5 @@
 
-<h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
+#Hi, im STOJANOVICLJUBINKO
 ![alt text](https://raw.githubusercontent.com/stojanovicljubinko/stojanovicljubinko/main/Snimak%20ekrana%202023-10-22%20134753.png)
 #### #include <conio.h><p><b><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{</strong></b></p>
 
