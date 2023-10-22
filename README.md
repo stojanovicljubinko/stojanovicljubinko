@@ -1,5 +1,8 @@
-<style>
-  
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+
 .duck {
   display: flex;
   flex-direction: column;
@@ -272,8 +275,9 @@
     transform: translateX(-50vw) scale(0.8);
   }
 }
-</style>
-<h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
+      </style>
+      <div class="container">
+      <h1 style="color:white;">Hi, im STOJANOVICLJUBINKO</h1>
   <div class="cloud cloud--1"></div>
                 <div class="cloud cloud--2"></div>
                 <div class="cloud cloud--3"></div>
@@ -294,6 +298,10 @@
                         <div class="duck__foot duck__foot--2" style="z-index: 1;"></div>
                         <div class="surface"></div>
                     </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
               
 ```c
